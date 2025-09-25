@@ -1,3 +1,3 @@
 # Go-back-2-basics
 
-## Learning Go
+## Go Journal
